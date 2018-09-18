@@ -4,8 +4,11 @@ Project for LBG in a single project
 There are 4 Assignments done in this project :
 
 -Write a Nodejs server that listens on port 3001 and outputs a file content from any local directory
+
 -Write a Nodejs server that serves as a RESTFUL API that takes two parameters in a GET call and produces their product.
+
 -Write a Nodejs server that serves as a RESTFUL  API that accepts a String as an input name and returns the first non-repeating character in the String
+
 -Write a Nodejs server that serves as a RESTFUL  API that accepts a file content and writes them to the disk.
  
  Description :
