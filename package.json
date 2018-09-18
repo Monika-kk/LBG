@@ -1,0 +1,20 @@
+{
+  "name": "lbd",
+  "version": "1.0.0",
+  "description": "This is a project for 4 operation - readfile, make rest API call for product of 2 number, Playing with Strings and FileUpload to Disk!",
+  "main": "pro1.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monika Kumari Khatri",
+  "license": "ISC"
+}
