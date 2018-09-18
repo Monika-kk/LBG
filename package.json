@@ -1,5 +1,5 @@
 {
-  "name": "lbd",
+  "name": "lbg",
   "version": "1.0.0",
   "description": "This is a project for 4 operation - readfile, make rest API call for product of 2 number, Playing with Strings and FileUpload to Disk!",
   "main": "pro1.js",
