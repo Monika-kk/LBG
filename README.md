@@ -11,6 +11,11 @@ There are 4 Assignments done in this project :
 
 -Write a Nodejs server that serves as a RESTFUL  API that accepts a file content and writes them to the disk.
  
+ 
+ NOTE : Unzip the views Folder before running the code.
+ 
+ 
+ 
  Description :
  
  Assignment 1 -  run the project as - node pro1.js FullFilePath OR node pro1.js (in this the default file will read!.)
@@ -39,6 +44,4 @@ There are 4 Assignments done in this project :
    Opens a Page with a File Choose option. Browse the file and click on Submit button to Upload the file
    
    Output : The result will be shown according to the input provided - File Uploaded Successfully or not!
-   
-   
    
