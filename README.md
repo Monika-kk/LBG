@@ -14,6 +14,7 @@ There are 4 Assignments done in this project :
  Description :
  
  Assignment 1 -  run the project as - node pro1.js FullFilePath OR node pro1.js (in this the default file will read!.)
+ 
  Output :  The content of the file is shown in the console
  
  Assignment 2 -  run the project as - node pro1.js
