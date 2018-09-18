@@ -1,5 +1,5 @@
 # LBG
-Project for LBG in a single project
+Single project for all Assignments
 
 There are 4 Assignments done in this project :
 
